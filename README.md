@@ -1,2 +1,2 @@
 # REP-Project---Multi-tool-Pocket-Knife
-All files related to my reverse engineering project for my Draft-41 class. This includes all Solidworks files of the pocket knife, such as drawings, parts, and pdfs.
+in this repository all my files related to my reverse engineering project for my Draft-41 class are included. This includes all Solidworks part files of the pocket knife, drawings, and pdfs. For my Draft 41 class we were given a project in which we had to reproduce an object of our choice. This semester I chose to reproduce a old pocket knife I found stored away in a cabinet. After 4 weeks of working I have finished and created all the files included.
